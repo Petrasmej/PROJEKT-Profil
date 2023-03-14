@@ -16,4 +16,45 @@ html { box-sizing: border-box; }
 
 body {
 	background-color: #bdc3c7;
+	color:#c2c6ca;
 }
+
+.profil {border:0px solid #31363b;
+	background-color: #31363b;
+	width: 300px;
+	margin-left: 40%;
+	padding: 0;
+	position: relative;
+	box-shadow: 2px 2px 6px #31363b;
+}
+
+.obsah{padding: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {color:white;
+	margin-top: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.foto {
+	width: 300px;
+}
+
+.logo {
+	border: 0 solid #b92e81;
+	background-color: #b92e81;
+	border-radius: 50%;
+	position:absolute;
+	top:175px;
+	left:225px;
+}
+
+.odkazy{
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	border-top:1px #3f464d;
+	padding-left: 0;
+}
+.portfolio{ text-align: center;}
+
